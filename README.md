@@ -7,6 +7,6 @@
 ### Work Experience
 
 ### Follow Me
-[LinkedIn](https://www.linkedin.com/in/thanh-bui-4b319372/)
+[<img src="assets/img/linkedin.png">](https://www.linkedin.com/in/thanh-bui-4b319372/)
 
 
