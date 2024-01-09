@@ -6,4 +6,7 @@
 
 ### Work Experience
 
-### Projects
+### Follow Me
+[LinkedIn](https://www.linkedin.com/in/thanh-bui-4b319372/)
+
+
