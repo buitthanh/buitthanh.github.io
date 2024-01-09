@@ -7,7 +7,7 @@
 ### Work Experience
 
 ### Follow Me
-[<img src="assets/linkedin.png">](https://www.linkedin.com/in/thanh-bui-4b319372/ width="12")
-[<img src="assets/github.png">](https://github.com/buitthanh/buitthanh.github.io)
+[<img src="/assets/linkedin.png" width="30" />](https://www.linkedin.com/in/thanh-bui-4b319372/)
+[<img src="/assets/github.png" width="30" />](https://github.com/buitthanh/buitthanh.github.io)
 
 
