@@ -1,10 +1,10 @@
-# Bioinformatician, Data Science, Oncology, Data Engineer
+# Bioinformatics . Data Science . Data Engineer . Scientist
+
+*Applying my love of computer science to biology in hopes of making an impact in patient lives.*
 
 ### Education
-- Bioinformatics, Masters
-- Biochemistry and Molecular Biology, Bachelors
-
-### Work Experience
+- M.S., Bioinformatics
+- B.S., Biochemistry and Molecular Biology
 
 ### Follow Me
 [<img src="/assets/linkedin.png" width="30" />](https://www.linkedin.com/in/thanh-bui-4b319372/)
